@@ -1,2 +1,2 @@
 # database
-Database Fikri Dean
+Database Fikri
